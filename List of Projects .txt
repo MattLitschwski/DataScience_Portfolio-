@@ -1,0 +1,12 @@
+List of portfolio projects. 
+
+Loan Approvals 
+Customer Churn 
+Titanic Surviver Analysis 
+Sentiment Analysis 
+Used Car Value 
+Predictive Maintenance 
+Finding the Hottest Topic in Machine Learning (case study) 
+Mobile Game A/B Testin 
+Naïve Bees: Image Loading and Manipulation 
+Classify Song Genres from Audio Data 
